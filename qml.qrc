@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>basecom/Button.qml</file>
+        <file>basecom/Shotchoose.qml</file>
+        <file>basecom/Transform.qml</file>
+        <file>basecom/Windowbtn.qml</file>
+        <file>left/Leftview.qml</file>
+        <file>main/Buttom.qml</file>
+        <file>main/Main.qml</file>
+        <file>main/Mid.qml</file>
+        <file>main/Top.qml</file>
+        <file>right/Rightview.qml</file>
+        <file>left/Imagelist.qml</file>
+        <file>basecom/Doublearrowline.qml</file>
+        <file>left/Imagelistmodel.qml</file>
+        <file>basecom/Mainshotbtn.qml</file>
+        <file>basecom/Scaleslider.qml</file>
+    </qresource>
+</RCC>
