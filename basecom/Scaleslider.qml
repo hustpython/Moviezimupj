@@ -2,7 +2,7 @@ import QtQuick 2.0
 import QtQuick.Controls 1.4
 import QtQuick.Controls.Styles 1.4
 Item {
-    property string promptstr: "原画"
+    property string promptstr: "适应"
     Slider {
         anchors.leftMargin: 5
         maximumValue: 2
