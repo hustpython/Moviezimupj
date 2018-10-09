@@ -15,5 +15,6 @@
         <file>left/Imagelistmodel.qml</file>
         <file>basecom/Mainshotbtn.qml</file>
         <file>basecom/Scaleslider.qml</file>
+        <file>basecom/Mainimglinedown.qml</file>
     </qresource>
 </RCC>

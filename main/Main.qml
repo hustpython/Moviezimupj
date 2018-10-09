@@ -18,6 +18,7 @@ Window {
     property double transformbtnopacity: 0.5
     property double position1: 0
     property double position2: 0
+    property double mainposition: 0
     property int sourcewidth: mainwindowwidth/2 - 30
     //用于记录主视图的index
     property int mainshotindex: 0

@@ -70,7 +70,7 @@ Item {
                     }
                    myshotinfo.imgurls[i]= tempurl
                 }
-                myshotinfo.setImage(sourcewidth,position1,position2+9)
+                myshotinfo.setImage(sourcewidth,position1,position2+9,mainposition)
             }
         }
     }

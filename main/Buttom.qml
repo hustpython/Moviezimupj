@@ -40,6 +40,9 @@ Item {
                 mainRoot.picdownloaded = true
                 mainRoot.transformbtnopacity = 1.0
                 urlcounts += urls.length
+//                mainRoot.position1 = 0
+//                mainRoot.position2 = 0
+//                mainRoot.mainposition = 0
             }
         }
         Item
@@ -78,6 +81,8 @@ Item {
             {
                 imagemodellist.clear()
                 mainRoot.transformbtnopacity = 0.5
+                mainshotindex = 0
+                urlcounts = 0
             }
         }
         }

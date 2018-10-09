@@ -27,6 +27,11 @@ Item {
         color: "gray"
         opacity: 0.6
     }
+    Com.Mainimglinedown
+    {
+        anchors.fill: parent
+        visible: mainRoot.mainshotindex === index ? true:false
+    }
 
     Item
     {

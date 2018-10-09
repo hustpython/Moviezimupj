@@ -33,7 +33,7 @@ public:
     ImageProvider *m_pImgProvider;
 
 public slots:
-    void setImage(int scaledwidth,double pos1,double pos2);
+    void setImage(int scaledwidth,double pos1,double pos2,double mainposition);
     void saveImage(QString saveurl,int scaled);
 private:
     QString myimgurl;
